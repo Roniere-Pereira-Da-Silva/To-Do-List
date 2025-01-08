@@ -1,0 +1,14 @@
+{
+  "name": "to-do-list",
+  "version": "1.0.0",
+  "description": "projeto para me ajudar a organizar",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "roniere",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
